@@ -1,0 +1,6 @@
+{
+  "name": "Neon Snake Arena",
+  "description": "A sleek modern dark neon snake arcade game with responsive controls, glowing particle effects, and dynamic difficulty.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
